@@ -1,0 +1,54 @@
+.dark{
+    background-color: black;
+    color: black;
+}
+
+.dark h1{
+    color: white;
+}
+
+.dark i{
+    color: white;
+}
+
+.dark .card {
+    background-color: black;
+    color: white;
+    border: solid 1px white;
+}
+
+.dark .card .btn {
+    color: black;
+    background-color: white;
+}
+
+.dark .card .btn:hover {
+    color: black;
+}
+
+.home{
+    border-radius: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}
+
+i{
+    font-size: 30px;
+    cursor: pointer;
+    text-align: center;
+    margin: auto;
+    padding: 30px 0px;
+}
+
+h1{
+    text-align: center;
+}
+
+.card .btn {
+    color: white;
+    background-color: black;
+}
+
+.card .btn:hover {
+  color: white;
+}
